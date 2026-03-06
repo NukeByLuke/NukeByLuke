@@ -10,29 +10,21 @@
 
 ![Red Deer Polytechnic](https://img.shields.io/badge/Red%20Deer%20Polytechnic-Computer%20Programming%20Diploma-C8102E?style=for-the-badge)
 ![Production Engineer](https://img.shields.io/badge/Focus-Production%20Engineering-0A7E3B?style=for-the-badge)
-![Private Source](https://img.shields.io/badge/Core%20Project-Private%20Source-1F2937?style=for-the-badge&logo=github)
+![Core Project](https://img.shields.io/badge/Core%20Project-Private%20Source-1F2937?style=for-the-badge&logo=github)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NukeByLuke&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
-## Profile Snapshot
-I build clean, production-ready software focused on reliability, maintainability, and measurable user value.
+## Professional Summary
+I build production-ready software with a strong focus on reliability, maintainability, and clear product value.
 
-My work blends product thinking, backend architecture, and practical AI integration to deliver features that are useful in real environments.
+My work combines product thinking, backend architecture, and practical AI integration to deliver features that are useful in real environments.
 
-## GitHub Trophy Cabinet
-[![View GitHub Achievements](https://img.shields.io/badge/View-GitHub%20Achievements-6D4AFF?style=for-the-badge&logo=github)](https://github.com/NukeByLuke?tab=achievements)
-
-![Pair Extraordinaire](https://img.shields.io/badge/Achievement-Pair%20Extraordinaire-5B4BFF?style=for-the-badge&logo=github)
-![Quickdraw](https://img.shields.io/badge/Achievement-Quickdraw-2E86FF?style=for-the-badge&logo=github)
-
+## GitHub Activity
 [![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=NukeByLuke&theme=tokyo-night&hide_border=true)](https://github.com/NukeByLuke)
 
-## About Me
-I am a full-stack engineer based in Red Deer, Alberta, focused on shipping clean, reliable software that solves real user problems.
-
-My work sits at the intersection of product thinking, backend architecture, and practical AI integration.
+[![View GitHub Achievements](https://img.shields.io/badge/View-GitHub%20Achievements-121826?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NukeByLuke?tab=achievements)
 
 ## Education
 ### Red Deer Polytechnic - Computer Programming Diploma
@@ -70,9 +62,9 @@ AI-powered learning platform that converts source material into interactive stud
 
 Delivered capabilities:
 - AI-generated summaries, flashcards, and quiz experiences
-- Immersive study UX with progress and engagement systems
+- Study UX with progress and engagement systems
 - Subscription billing and role-aware product gating
-- Production deployment workflows with CI/CD and operational safeguards
+- Production deployment workflows with CI/CD safeguards
 
 ## Engineering Focus
 - Production-quality architecture and clean service boundaries
