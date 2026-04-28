@@ -75,7 +75,7 @@ AI-powered learning platform that converts source material into interactive stud
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NukeByLuke&hide_border=true&background=1F1713&ring=C9A36D&fire=C9A36D&currStreakLabel=F7E7C6&sideNums=E7D3AF&currStreakNum=F7E7C6&dates=BFA889&sideLabels=BFA889&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=NukeByLuke&hide_border=true&background=00000000&ring=C9A36D&fire=C9A36D&currStreakLabel=F7E7C6&sideNums=E7D3AF&currStreakNum=F7E7C6&dates=BFA889&sideLabels=BFA889&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
 </p>
 
 ---
