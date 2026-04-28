@@ -25,74 +25,45 @@ My work blends **full-stack engineering**, **backend architecture**, and **pract
 
 ## What I Bring
 
-- End-to-end delivery of full-stack products
-- Backend/API architecture with clean boundaries and scalable patterns
-- AI feature integration using modern LLM providers and workflow-driven prompts
-- Production operations with CI/CD, containers, and deployment hardening
+* **End-to-end delivery** of full-stack products
+* **Backend/API architecture** with clean boundaries and scalable patterns
+* **AI feature integration** using modern LLM providers and workflow-driven prompts
+* **Production operations** with CI/CD, containers, and deployment hardening
 
 ---
 
 ## AI & LLM Experience
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=openai" alt="OpenAI" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=google" alt="Google" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=prompt" alt="Prompt Engineering" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=transformers" alt="RAG / Retrieval" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=audio" alt="TTS / Media AI" width="44" height="44" />
-</p>
-
----
-
---- 
-
-## AI & LLM Experience
-
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-2A1F1A?style=flat-square&logo=openai&logoColor=F7E7C6" alt="OpenAI" width="44" height="44" />
-  <img src="https://img.shields.io/badge/Gemini-2A1F1A?style=flat-square&logo=google&logoColor=F7E7C6" alt="Google Gemini" width="44" height="44" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-2A1F1A?style=flat-square&logoColor=F7E7C6" alt="Prompt Engineering" width="120" height="44" />
-  <img src="https://img.shields.io/badge/RAG%20Workflows-2A1F1A?style=flat-square&logoColor=F7E7C6" alt="RAG" width="120" height="44" />
-  <img src="https://img.shields.io/badge/TTS%20%2F%20Media%20AI-2A1F1A?style=flat-square&logoColor=F7E7C6" alt="TTS / Media AI" width="140" height="44" />
+  <img src="https://img.shields.io/badge/OpenAI-2A1F1A?style=for-the-badge&logo=openai&logoColor=F7E7C6" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Gemini-2A1F1A?style=for-the-badge&logo=google&logoColor=F7E7C6" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-2A1F1A?style=for-the-badge&logoColor=F7E7C6" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/RAG%20Workflows-2A1F1A?style=for-the-badge&logoColor=F7E7C6" alt="RAG" />
+  <img src="https://img.shields.io/badge/TTS%20%2F%20Media%20AI-2A1F1A?style=for-the-badge&logoColor=F7E7C6" alt="TTS / Media AI" />
 </p>
 
 ---
 
 ## Full-Stack Technical Arsenal
 
+### Languages & Core
 <p align="left">
-  <!-- Languages (inline, dark rounded skillicons) -->
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" width="48" height="48" /> 
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" width="48" height="48" /> 
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" width="48" height="48" /> 
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="Postgres" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,postgres&theme=dark" />
 </p>
 
+### Frontend
 <p align="left">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" />
 </p>
 
+### Backend & Infrastructure
 <p align="left">
-  <!-- Backend & Data -->
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=fastify&theme=dark" alt="Fastify" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=prisma&theme=dark" alt="Prisma" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="Postgres" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastify,prisma,redis,docker,nginx&theme=dark" />
 </p>
 
+### Deployment & Tools
 <p align="left">
-  <!-- DevOps & Delivery -->
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=nginx&theme=dark" alt="Nginx" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="GitHub Actions" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=digitalocean&theme=dark" alt="DigitalOcean" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=githubactions,digitalocean,linux&theme=dark" />
 </p>
 
 ---
@@ -102,23 +73,27 @@ My work blends **full-stack engineering**, **backend architecture**, and **pract
 ### Thynkr (Private Source)
 AI-powered learning platform that converts source material into interactive study assets.
 
-- AI summaries, flashcards, and quiz generation
-- Immersive study UX and engagement systems
-- Role-based access, subscriptions, and billing integration
-- Production deployment pipelines with CI/CD and containerized infrastructure
+* AI summaries, flashcards, and quiz generation
+* Immersive study UX and engagement systems
+* Role-based access, subscriptions, and billing integration
+* Production deployment pipelines with CI/CD and containerized infrastructure
 
 ---
 
 ## GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NukeByLuke&hide_border=true&background=1F1713&ring=C9A36D&fire=C9A36D&currStreakLabel=F7E7C6&sideNums=E7D3AF&currStreakNum=F7E7C6&dates=BFA889&sideLabels=BFA889)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NukeByLuke&hide_border=true&background=1F1713&ring=C9A36D&fire=C9A36D&currStreakLabel=F7E7C6&sideNums=E7D3AF&currStreakNum=F7E7C6&dates=BFA889&sideLabels=BFA889" alt="GitHub Streak" />
+</p>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NukeByLuke&bg_color=1f1713&color=f7e7c6&line=c9a36d&point=e7d3af&area=true&area_color=4a2f24&hide_border=true)](https://github.com/NukeByLuke)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NukeByLuke&bg_color=1f1713&color=f7e7c6&line=c9a36d&point=e7d3af&area=true&area_color=4a2f24&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
 
 ---
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/lukasdreise](https://www.linkedin.com/in/lukasdreise/)
-- Portfolio: [portfolio-black-tau-6vsna1of05.vercel.app](https://portfolio-black-tau-6vsna1of05.vercel.app/)
-- Email: [lukedreise.business@gmail.com](mailto:lukedreise.business@gmail.com)
+* **LinkedIn:** [linkedin.com/in/lukasdreise](https://www.linkedin.com/in/lukasdreise/)
+* **Portfolio:** [portfolio-black-tau-6vsna1of05.vercel.app](https://portfolio-black-tau-6vsna1of05.vercel.app/)
+* **Email:** [lukedreise.business@gmail.com](mailto:lukedreise.business@gmail.com)
