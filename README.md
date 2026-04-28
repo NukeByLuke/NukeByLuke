@@ -44,41 +44,55 @@ My work blends **full-stack engineering**, **backend architecture**, and **pract
 
 ---
 
+--- 
+
+## AI & LLM Experience
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-2A1F1A?style=flat-square&logo=openai&logoColor=F7E7C6" alt="OpenAI" width="44" height="44" />
+  <img src="https://img.shields.io/badge/Gemini-2A1F1A?style=flat-square&logo=google&logoColor=F7E7C6" alt="Google Gemini" width="44" height="44" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-2A1F1A?style=flat-square&logoColor=F7E7C6" alt="Prompt Engineering" width="120" height="44" />
+  <img src="https://img.shields.io/badge/RAG%20Workflows-2A1F1A?style=flat-square&logoColor=F7E7C6" alt="RAG" width="120" height="44" />
+  <img src="https://img.shields.io/badge/TTS%20%2F%20Media%20AI-2A1F1A?style=flat-square&logoColor=F7E7C6" alt="TTS / Media AI" width="140" height="44" />
+</p>
+
+---
+
 ## Full-Stack Technical Arsenal
 
-### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres / SQL" width="48" height="48" />
+  <!-- Languages (inline, dark rounded skillicons) -->
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" width="48" height="48" /> 
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" width="48" height="48" /> 
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" width="48" height="48" /> 
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="Postgres" width="48" height="48" />
 </p>
 
-### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48" />
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" width="48" height="48" />
 </p>
 
-### Backend & Data
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=fastify" alt="Fastify" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="48" height="48" />
+  <!-- Backend & Data -->
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=fastify&theme=dark" alt="Fastify" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=prisma&theme=dark" alt="Prisma" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="Postgres" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" width="48" height="48" />
 </p>
 
-### DevOps & Delivery
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=digitalocean" alt="DigitalOcean" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" />
+  <!-- DevOps & Delivery -->
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=nginx&theme=dark" alt="Nginx" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="GitHub Actions" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=digitalocean&theme=dark" alt="DigitalOcean" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" width="48" height="48" />
 </p>
 
 ---
