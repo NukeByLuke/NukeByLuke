@@ -48,22 +48,22 @@ My work blends **full-stack engineering**, **backend architecture**, and **pract
 
 ### Languages & Core
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,postgres&theme=dark" height="45" />
 </p>
 
 ### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" height="45" />
 </p>
 
 ### Backend & Infrastructure
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,fastify,prisma,redis,docker,nginx&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,redis,docker,nginx&theme=dark" height="45" />
 </p>
 
 ### Deployment & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=githubactions,digitalocean,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=githubactions,linux,ae,ps,figma&theme=dark" height="45" />
 </p>
 
 ---
@@ -84,10 +84,6 @@ AI-powered learning platform that converts source material into interactive stud
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NukeByLuke&hide_border=true&background=1F1713&ring=C9A36D&fire=C9A36D&currStreakLabel=F7E7C6&sideNums=E7D3AF&currStreakNum=F7E7C6&dates=BFA889&sideLabels=BFA889" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NukeByLuke&bg_color=1f1713&color=f7e7c6&line=c9a36d&point=e7d3af&area=true&area_color=4a2f24&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 ---
