@@ -25,7 +25,7 @@ My work blends **full-stack engineering**, **backend architecture**, and **pract
 
 ## What I Bring
 
-- End-to-end delivery of full-stack products (frontend, backend, data, deployment)
+- End-to-end delivery of full-stack products
 - Backend/API architecture with clean boundaries and scalable patterns
 - AI feature integration using modern LLM providers and workflow-driven prompts
 - Production operations with CI/CD, containers, and deployment hardening
@@ -34,39 +34,52 @@ My work blends **full-stack engineering**, **backend architecture**, and **pract
 
 ## AI & LLM Experience
 
-![OpenAI](https://img.shields.io/badge/OpenAI-4A2F24?style=flat-square&logo=openai&logoColor=F7E7C6)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-6B4B34?style=flat-square&logo=google&logoColor=F7E7C6)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-7A5A3E?style=flat-square&logoColor=F7E7C6)
-![RAG Workflows](https://img.shields.io/badge/RAG%20Workflows-8A6A43?style=flat-square&logoColor=F7E7C6)
-![TTS / Media AI](https://img.shields.io/badge/TTS%20%2F%20Media%20AI-5A3E2B?style=flat-square&logoColor=F7E7C6)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=openai" alt="OpenAI" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=google" alt="Google" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=prompt" alt="Prompt Engineering" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=transformers" alt="RAG / Retrieval" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=audio" alt="TTS / Media AI" width="44" height="44" />
+</p>
 
 ---
 
 ## Full-Stack Technical Arsenal
 
 ### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-5A3E2B?style=flat-square&logo=typescript&logoColor=F7E7C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-7A5438?style=flat-square&logo=javascript&logoColor=F7E7C6)
-![SQL](https://img.shields.io/badge/SQL-6F4E37?style=flat-square&logo=postgresql&logoColor=F7E7C6)
-![Python](https://img.shields.io/badge/Python-8A6A43?style=flat-square&logo=python&logoColor=F7E7C6)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres / SQL" width="48" height="48" />
+</p>
 
 ### Frontend
-![React](https://img.shields.io/badge/React-4A2F24?style=flat-square&logo=react&logoColor=F7E7C6)
-![Vite](https://img.shields.io/badge/Vite-6B4B34?style=flat-square&logo=vite&logoColor=F7E7C6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-7A5A3E?style=flat-square&logo=tailwindcss&logoColor=F7E7C6)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48" />
+</p>
 
 ### Backend & Data
-![Node.js](https://img.shields.io/badge/Node.js-5A3E2B?style=flat-square&logo=nodedotjs&logoColor=F7E7C6)
-![Fastify](https://img.shields.io/badge/Fastify-2A1F1A?style=flat-square&logo=fastify&logoColor=F7E7C6)
-![Prisma](https://img.shields.io/badge/Prisma-6F4E37?style=flat-square&logo=prisma&logoColor=F7E7C6)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8A6A43?style=flat-square&logo=postgresql&logoColor=F7E7C6)
-![Redis](https://img.shields.io/badge/Redis-7A5438?style=flat-square&logo=redis&logoColor=F7E7C6)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=fastify" alt="Fastify" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="48" height="48" />
+</p>
 
 ### DevOps & Delivery
-![Docker](https://img.shields.io/badge/Docker-5A3E2B?style=flat-square&logo=docker&logoColor=F7E7C6)
-![Nginx](https://img.shields.io/badge/Nginx-6B4B34?style=flat-square&logo=nginx&logoColor=F7E7C6)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-7A5A3E?style=flat-square&logo=githubactions&logoColor=F7E7C6)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-8A6A43?style=flat-square&logo=digitalocean&logoColor=F7E7C6)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=digitalocean" alt="DigitalOcean" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" />
+</p>
 
 ---
 
