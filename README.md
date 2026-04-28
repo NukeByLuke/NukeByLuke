@@ -1,6 +1,6 @@
 <div align="center">
 
-# LUKE DREISE
+# L U K E  D R E I S E
 ### Full-Stack Software Engineer | AI Product Builder
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2A1F1A?style=for-the-badge&logo=firefox-browser&logoColor=F7E7C6)](https://portfolio-black-tau-6vsna1of05.vercel.app/)
