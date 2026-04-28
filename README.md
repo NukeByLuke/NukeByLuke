@@ -47,16 +47,16 @@ My work blends **full-stack engineering**, **backend architecture**, and **pract
 ## Full-Stack Technical Arsenal
 
 ### Languages & Core
-<img src="https://skillicons.dev/icons?i=ts,js,py,postgres&theme=dark" height="48" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,ts,js,py,java,dotnet&theme=dark" height="48" />
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" height="48" />
+### Frontend & Design
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma,ps,ae&theme=dark" height="48" />
 
-### Backend & Infrastructure
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,redis,docker,nginx&theme=dark" height="48" />
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql,mongodb,sqlite,redis&theme=dark" height="48" />
 
-### Deployment & Tools
-<img src="https://skillicons.dev/icons?i=githubactions,linux,ae,ps,figma&theme=dark" height="48" />
+### DevOps, Cloud & Tools
+<img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,aws,linux,git,vscode,visualstudio&theme=dark" height="48" />
 
 ---
 
@@ -75,7 +75,7 @@ AI-powered learning platform that converts source material into interactive stud
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NukeByLuke&hide_border=true&background=1F1713&ring=C9A36D&fire=C9A36D&currStreakLabel=F7E7C6&sideNums=E7D3AF&currStreakNum=F7E7C6&dates=BFA889&sideLabels=BFA889" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=NukeByLuke&hide_border=true&background=1F1713&ring=C9A36D&fire=C9A36D&currStreakLabel=F7E7C6&sideNums=E7D3AF&currStreakNum=F7E7C6&dates=BFA889&sideLabels=BFA889&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
 </p>
 
 ---
