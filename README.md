@@ -35,10 +35,10 @@ My work blends **full-stack engineering**, **backend architecture**, and **pract
 ## AI & LLM Experience
 
 <p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-2A1F1A?style=for-the-badge&logo=openai&logoColor=F7E7C6" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Gemini-2A1F1A?style=for-the-badge&logo=google&logoColor=F7E7C6" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-2A1F1A?style=for-the-badge&logoColor=F7E7C6" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/RAG%20Workflows-2A1F1A?style=for-the-badge&logoColor=F7E7C6" alt="RAG" />
+  <img src="https://img.shields.io/badge/OpenAI-2A1F1A?style=for-the-badge&logo=openai&logoColor=F7E7C6" alt="OpenAI" />&nbsp;
+  <img src="https://img.shields.io/badge/Gemini-2A1F1A?style=for-the-badge&logo=google&logoColor=F7E7C6" alt="Google Gemini" />&nbsp;
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-2A1F1A?style=for-the-badge&logoColor=F7E7C6" alt="Prompt Engineering" />&nbsp;
+  <img src="https://img.shields.io/badge/RAG%20Workflows-2A1F1A?style=for-the-badge&logoColor=F7E7C6" alt="RAG" />&nbsp;
   <img src="https://img.shields.io/badge/TTS%20%2F%20Media%20AI-2A1F1A?style=for-the-badge&logoColor=F7E7C6" alt="TTS / Media AI" />
 </p>
 
@@ -47,24 +47,16 @@ My work blends **full-stack engineering**, **backend architecture**, and **pract
 ## Full-Stack Technical Arsenal
 
 ### Languages & Core
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,postgres&theme=dark" height="45" />
-</p>
+<img src="https://skillicons.dev/icons?i=ts,js,py,postgres&theme=dark" height="48" />
 
 ### Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" height="45" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" height="48" />
 
 ### Backend & Infrastructure
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,redis,docker,nginx&theme=dark" height="45" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,redis,docker,nginx&theme=dark" height="48" />
 
 ### Deployment & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=githubactions,linux,ae,ps,figma&theme=dark" height="45" />
-</p>
+<img src="https://skillicons.dev/icons?i=githubactions,linux,ae,ps,figma&theme=dark" height="48" />
 
 ---
 
