@@ -3,46 +3,57 @@
 # LUKE DREISE
 ### Full-Stack Software Engineer | AI Product Builder
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0E1628?style=for-the-badge&logo=firefox-browser&logoColor=F4E3C3)](https://portfolio-black-tau-6vsna1of05.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A4B8C?style=for-the-badge&logo=linkedin&logoColor=F4E3C3)](https://www.linkedin.com/in/lukasdreise/)
-[![Email](https://img.shields.io/badge/Email-6B4F3A?style=for-the-badge&logo=gmail&logoColor=F4E3C3)](mailto:lukedreise.business@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=firefox-browser&logoColor=F4E3C3)](https://portfolio-black-tau-6vsna1of05.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E4E8C?style=for-the-badge&logo=linkedin&logoColor=F4E3C3)](https://www.linkedin.com/in/lukasdreise/)
+[![Email](https://img.shields.io/badge/Email-7A5B3A?style=for-the-badge&logo=gmail&logoColor=F4E3C3)](mailto:lukedreise.business@gmail.com)
 
-![Focus](https://img.shields.io/badge/Focus-Production%20Engineering-2D5A7A?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Production%20Engineering-2B5D7F?style=for-the-badge)
+![Specialty](https://img.shields.io/badge/Specialty-AI%20Product%20Integration-1B2A41?style=for-the-badge)
 ![Education](https://img.shields.io/badge/Red%20Deer%20Polytechnic-Computer%20Programming%20Diploma-8C5E3C?style=for-the-badge)
-![Core Work](https://img.shields.io/badge/Core%20Project-Thynkr%20(Private)-1B2A41?style=for-the-badge&logo=github)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=NukeByLuke&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ## About Me
 
-I build reliable, production-ready software with a focus on clean architecture, practical AI integration, and fast delivery.
+I build reliable, production-ready software with a strong focus on **backend architecture**, **practical AI integration**, and **high-confidence delivery**.
 
-I care about solving real problems with maintainable systems—not just shipping features.
+I’m most valuable where product speed and engineering quality both matter: shipping quickly, keeping systems maintainable, and reducing regression risk as complexity grows.
 
-## Core Stack
+## What I Bring to a Team
 
-[![Tech Stack](https://skillicons.dev/icons?i=ts,react,nodejs,fastify,postgres,redis,docker,nginx,git,githubactions)](https://skillicons.dev)
+- Design and deliver full-stack features from concept to production
+- Build stable APIs and backend services with clean boundaries
+- Integrate AI features that solve real user workflows, not demo-only use cases
+- Improve release confidence through CI/CD, containerization, and operational discipline
+
+## Technical Stack
+
+[![Core Stack](https://skillicons.dev/icons?i=ts,js,react,nodejs,fastify,postgres,redis,docker,nginx,git,githubactions,github)](https://skillicons.dev)
+
+### Platform + Product Integrations
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 ## Featured Project
 
 ### Thynkr (Private Source)
+AI-powered learning platform that transforms source material into interactive study assets.
 
-AI-powered study platform that transforms source material into interactive learning assets.
+- AI-generated summaries, flashcards, and quizzes
+- Role-aware billing and subscription gating
+- Fastify + PostgreSQL + Redis backend architecture
+- Production deployments with CI/CD and Docker workflows
 
-- AI summaries, flashcards, and quiz generation  
-- Role-aware subscriptions and product gating  
-- Production deployment with CI/CD automation  
+## GitHub Activity
 
-## Current Focus
+[![GitHub Streak](https://streak-stats.demolab.com?user=NukeByLuke&hide_border=true&background=0B1220&ring=C8A77A&fire=C8A77A&currStreakLabel=F4E3C3&sideNums=8BA6C9&currStreakNum=F4E3C3&dates=8BA6C9&sideLabels=8BA6C9)](https://git.io/streak-stats)
 
-- Backend systems and API reliability  
-- Product-minded AI features  
-- Developer workflows and release quality  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NukeByLuke&bg_color=0b1220&color=f4e3c3&line=c8a77a&point=7aa2d6&area=true&area_color=1b2a41&hide_border=true&radius=8)](https://github.com/NukeByLuke)
 
 ## Contact
 
-- LinkedIn: [Lukas Dreise](https://www.linkedin.com/in/lukasdreise/)  
-- Portfolio: [portfolio-black-tau-6vsna1of05.vercel.app](https://portfolio-black-tau-6vsna1of05.vercel.app/)  
+- LinkedIn: [linkedin.com/in/lukasdreise](https://www.linkedin.com/in/lukasdreise/)
+- Portfolio: [portfolio-black-tau-6vsna1of05.vercel.app](https://portfolio-black-tau-6vsna1of05.vercel.app/)
 - Email: [lukedreise.business@gmail.com](mailto:lukedreise.business@gmail.com)
